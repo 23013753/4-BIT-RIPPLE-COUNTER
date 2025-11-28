@@ -1,3 +1,6 @@
+# date 12.09.25
+
+
 # 4-BIT-RIPPLE-COUNTER
 
 **AIM:**
@@ -43,13 +46,7 @@ end
 endmodule
 ```
 
-```
-/* Program for 4 Bit Ripple Counter and verify its truth table in quartus using Verilog programming.
 
-Developed by: VISHAL S
-RegisterNumber: 212223240184
-*/
-```
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
 
